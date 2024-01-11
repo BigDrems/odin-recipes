@@ -1,0 +1,29 @@
+[33mcommit e5030de6c56ae6ca1f7a720005d62726ba2b20c0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jack <jackjonelfiel@gmail.com>
+Date:   Thu Jan 4 10:41:44 2024 +0700
+
+    Add index.html and lasagna.jpg and mangofloat.jpg and spaghetti.jpg and beefsteak.jpg
+
+[33mcommit c26641306ce1359cc684eb02aea75ea6944b8d1b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jack <jackjonelfiel@gmail.com>
+Date:   Thu Jan 4 10:29:49 2024 +0700
+
+    Add lasagna.html and mango-float.html and spaghetti.html
+
+[33mcommit a5d41800f0b7c86a5862b41bccb32ecbb6d3ba73[m
+Author: Jack <jackjonelfiel@gmail.com>
+Date:   Thu Jan 4 09:34:30 2024 +0700
+
+    Edit README.md
+
+[33mcommit 8e3dff50e929d403498ebc6ef6548ba3c7690559[m
+Author: Jack <jackjonelfiel@gmail.com>
+Date:   Thu Jan 4 09:25:51 2024 +0700
+
+    Add hello_world.txt
+
+[33mcommit bd38e6e1b1111a0ddd96d243ea2492b624aa6a3a[m
+Author: Jack Jonel Fiel <118134487+BigDrems@users.noreply.github.com>
+Date:   Thu Jan 4 08:23:39 2024 +0700
+
+    Initial commit

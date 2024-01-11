@@ -1,0 +1,9 @@
+ul li{
+    list-style-type: none;
+}
+
+.main{
+   background-color: aquamarine;
+   width: 50%;
+   height: 80px;
+}
